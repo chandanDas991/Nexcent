@@ -1,0 +1,93 @@
+/* =====common css start =====*/
+nav{
+    background: #F5F7FA;
+    padding: 22px 0px !important;
+
+}
+.bannar .comman-button a{
+    background: #4CAF4F;
+    padding: 14px 32px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    color: white;
+    font-weight: 500;
+    transition: .5s;
+    border: 1px solid transparent;
+   
+    display: inline-block;
+}
+.bannar .comman-button a:hover{
+    background: transparent;
+    color: #4CAF4F;
+    border: 1px solid #4CAF4F;
+    border-color:#4CAF4F ;
+}
+
+/* =====common css ent =====*/
+
+
+/* =======Navber Part Start ======*/
+.navber-button a{
+    background: #4CAF4F;
+    padding: 10px 20px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    color: white;
+    font-weight: 500;
+    transition: .5s;
+    border: 1px solid transparent;
+    margin-left: 10px;
+    display: inline-block;
+}
+.navber-button a:hover{
+    background: transparent;
+    color: #4CAF4F;
+    border: 1px solid #4CAF4F;
+    border-color:#4CAF4F ;
+}
+.navbar-nav{
+    column-gap: 50px;
+}
+.nav-link{
+    font-size: 16px;
+    font-weight: 400;
+    color: #18191F;
+    font-family: "Inter", sans-serif;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    transition: .4s;
+}
+.nav-link:hover{
+    color: blue;
+}
+/* =======Navber Part End ======*/
+
+/* <!-- =========Banner Part Start=======--> */
+.bannar{
+    background: #F5F7FA;
+    padding: 161px 0px;
+}
+.bannar h1{
+    font-size: 64px;
+    color: #4D4D4D;
+    font-weight: 600;
+    font-family: "Inter", sans-serif;
+
+}
+.bannar h1 span{
+    color: #4CAF4F;
+}
+.bannar p{
+    color: #717171;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+    padding-top: 16px;
+    padding-bottom: 32px;
+}
+
+/* <!-- =========Banner End=======--> */

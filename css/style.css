@@ -24,6 +24,26 @@ nav{
     border: 1px solid #4CAF4F;
     border-color:#4CAF4F ;
 }
+.title h2{
+    font-size: 36px;
+    font-weight: 600;
+    font-family: "Inter", sans-serif;
+    color: #4D4D4D;
+    padding-top: 40px;
+}
+.title{
+    text-align: center;
+}
+.title p{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+    color: #717171;
+    padding-bottom: 8px;
+}
+.box{
+    display: flex;
+}
 
 /* =====common css ent =====*/
 
@@ -91,3 +111,13 @@ nav{
 }
 
 /* <!-- =========Banner End=======--> */
+
+/* <!-- ========= Client  Part Start=======--> */
+.client{
+    padding: 40px 0px;
+}
+.client .box{
+    justify-content: space-between;
+    padding: 40px 0px;
+}
+/* <!-- ========= Client End End=======--> */

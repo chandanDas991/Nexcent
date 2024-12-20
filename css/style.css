@@ -4,7 +4,7 @@ nav{
     padding: 22px 0px !important;
 
 }
-.bannar .comman-button a{
+.bannar .common-button a{
     background: #4CAF4F;
     padding: 14px 32px;
     border-radius: 4px;
@@ -18,7 +18,7 @@ nav{
    
     display: inline-block;
 }
-.bannar .comman-button a:hover{
+.bannar .common-button a:hover{
     background: transparent;
     color: #4CAF4F;
     border: 1px solid #4CAF4F;
@@ -242,7 +242,34 @@ nav{
 .commounity .cardtwo .card-body{
     padding: 0 !important;
 }
-
-
 /* <!-- =========Commounity Part end=======--> */
+
+/* <!-- =========Service Part start=======--> */
+.service .title2{
+    text-align: left;
+}
+.service{
+    padding: 48px 0px;
+}
+.service .container .common-button a{
+    background: #4CAF4F;
+    padding: 14px 32px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    color: white;
+    font-weight: 500;
+    transition: .5s;
+    border: 1px solid transparent;
+   
+    display: inline-block;
+}
+.service .container .common-button a:hover{
+    background: transparent;
+    color: #4CAF4F;
+    border: 1px solid #4CAF4F;
+    border-color:#4CAF4F ;
+}
+/* <!-- =========Service Part end=======--> */
 

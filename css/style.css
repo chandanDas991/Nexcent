@@ -121,3 +121,128 @@ nav{
     padding: 40px 0px;
 }
 /* <!-- ========= Client End End=======--> */
+
+/* <!-- =========Commounity Part Start=======--> */
+.commounity{
+    padding: 40px 0px;
+}
+.commounity .title h2{
+    width: 542px;
+    margin: 0 auto;
+}
+.commounity .card{
+    width: 100% !important;
+    padding-left: 42px;
+    padding-right: 42px;
+    padding-top: 24px;
+    padding-bottom: 48px;
+    text-align: center;
+    border: 0px !important;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    margin-top: 17px;
+    
+}
+.commounity .card img{
+    width: 20% !important;
+    margin: 0 auto;
+    
+}
+.commounity .card .card-title{
+    font-size: 28px;
+    color: #4D4D4D;
+    font-family: "Inter", sans-serif;
+    font-weight: 900;
+    padding-top: 16px;
+    padding-bottom: 8px;
+
+    
+}
+.commounity .card .card-text{
+    font-size: 14px;
+    color: #717171;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+}
+.commounity .card .card-body{
+    padding: 0 !important;
+}
+.commounity .cardone{
+    width: 100% !important;
+    padding-left: 101px;
+    padding-right: 101px;
+    padding-top: 16px;
+    padding-bottom: 33px;
+    text-align: center;
+    border: 0px !important;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    margin-top: 17px;
+    
+}
+.commounity .cardone img{
+    width: 20% !important;
+    margin: 15px;
+   
+    
+}
+.commounity .cardone .card-title{
+    font-size: 28px;
+    color: #4D4D4D;
+    font-family: "Inter", sans-serif;
+    font-weight: 900;
+    padding-top: 16px;
+    padding-bottom: 8px;
+   
+
+    
+}
+.commounity .cardone .card-text{
+    font-size: 14px;
+    color: #717171;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+}
+.commounity .cardone .card-body{
+    padding: 0px !important;
+}
+.commounity .cardtwo{
+    width: 100% !important;
+    padding-left: 83px !important;
+    padding-right: 83px !important;
+    padding-top: 16px;
+    padding-bottom: 55px;
+    text-align: center;
+    border: 0px !important;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    margin-top: 17px;
+    
+}
+.commounity .cardtwo img{
+    width: 20% !important;
+    margin: 12px;
+   
+    
+}
+.commounity .cardtwo .card-title{
+    font-size: 28px;
+    color: #4D4D4D;
+    font-family: "Inter", sans-serif;
+    font-weight: 900;
+    padding-top: 16px;
+    padding-bottom: 8px;
+    width: 231px;
+
+    
+}
+.commounity .cardtwo .card-text{
+    font-size: 14px;
+    color: #717171;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+}
+.commounity .cardtwo .card-body{
+    padding: 0 !important;
+}
+
+
+/* <!-- =========Commounity Part end=======--> */
+

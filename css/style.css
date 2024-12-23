@@ -317,6 +317,44 @@ nav{
 
 /* <!-- =========Deteles Part Ent=======--> */
 
-/* <!-- =========Service2 Part Start=======--> */
-
-/* <!-- =========Service2 Part End=======--> */
+/* <!-- =========Customers Part Start=======--> */
+.customers{
+    background: #F5F7FA;
+    padding: 32px 0px;
+}
+.customers p{
+  font-size: 16px;
+  font-weight: 500;
+  color: #717171;
+  font-family: "Inter", sans-serif;
+  width: 748px;
+}
+.customers .chandan{
+    font-size: 16px;
+  font-weight: 400;
+  color: #89939E;
+  font-family: "Inter", sans-serif;
+}
+.customers h6{
+    font-size: 20px;
+    font-weight: 600;
+    color: #4CAF4F;
+    font-family: "Inter", sans-serif;
+    padding-top: 16px;
+    padding-bottom: 8px;
+}
+.customers .slider{
+    display: flex;
+    justify-content: space-between;
+}
+.customers .slider h4{
+    font-size: 20px;
+    font-weight: 600;
+    color: #4CAF4F;
+    font-family: "Inter", sans-serif;
+    padding-top: 10px;
+}
+.customers .slider h4 i{
+    margin-left: 8px;
+}
+/* <!-- =========Customers Part End=======--> */

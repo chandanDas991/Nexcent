@@ -450,3 +450,117 @@ nav{
     padding-left: 8px;
 }
 /* cart-part part end */
+
+/* <!-- suscipit part start --> */
+.suscipit{
+    background: #F5F7FA;
+    text-align: center;
+    padding: 32px 0;
+}
+.suscipit .common-button{
+    padding-top: 32px;
+}
+.suscipit i{
+   padding-left: 8px;
+
+}
+.suscipit p{
+    width: 842px;
+    margin: 0 auto;
+    font-size: 64px;
+    font-weight: 600;
+    font-family: "Inter", serif;
+    color: #4D4D4D;
+}
+.suscipit .common-button a{
+    background: #4CAF4F;
+    padding: 14px 32px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    color: white;
+    font-weight: 500;
+    transition: .5s;
+    border: 1px solid transparent;
+   
+    display: inline-block;
+}
+.suscipit .common-button a:hover{
+    background: transparent;
+    color: #4CAF4F;
+    border: 1px solid #4CAF4F;
+    border-color:#4CAF4F ;
+}
+/* <!-- suscipit part end --> */
+
+/* <!-- footer part start --> */
+.footer{
+    background: #263238;
+    padding: 64px 0;
+}
+.footer img{
+    padding-bottom: 40px;
+}
+.footer h6{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Inter", serif;
+    color: #F5F7FA;
+    
+}
+
+.footer .icon ul{
+    list-style: none;
+    display: flex;
+    column-gap: 16px;
+    align-items: left;
+    padding: 0;
+    margin: 0;
+    padding-top: 40px;
+    
+}
+.footer .icon ul li{
+   
+   color: #F5F7FA; 
+   font-size: 25px;
+}
+.footer .icon1 h4{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "Inter", serif;
+    color: #F5F7FA; 
+    padding-bottom: 24px;
+}
+.footer .icon1 ul{
+   padding: 0;
+   margin: 0;
+   list-style: none;
+   display: grid;
+   row-gap: 12px;
+}
+.footer .icon1 ul li{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Inter", serif;
+    color: #F5F7FA;
+}
+
+.footer form input{
+    width: 255px;
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    background: rgba(77, 77, 77, 1);
+    color: #D9DBE1;
+    padding: 10px;
+   
+}
+.footer .fa-regular{
+    position: relative;
+    left: 220px;
+    top: -30px;
+    color: #F5F7FA;
+}
+/* <!-- footer part start --> */

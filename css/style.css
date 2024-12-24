@@ -358,3 +358,25 @@ nav{
     margin-left: 8px;
 }
 /* <!-- =========Customers Part End=======--> */
+
+/* <!-- marketing part start --> */
+.marketing{
+    text-align: center;
+    padding-top: 32px;
+    padding-bottom: 16px;
+}
+.marketing h2{
+    font-size: 36px;
+    font-weight: 600;
+    color: #4D4D4D;
+    font-family: "Inter", sans-serif;
+}
+.marketing p{
+    width: 597px; 
+    margin: 0 auto;
+    color: #717171;
+   font-size: 16px;
+   font-weight: 400;
+   font-family: "Inter", serif;
+}
+/* <!-- marketing part end --> */
